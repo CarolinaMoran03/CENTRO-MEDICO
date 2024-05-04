@@ -1,0 +1,81 @@
+.employee-form {
+    background: url(https://st3.depositphotos.com/2604731/19512/i/450/depositphotos_195129114-stock-photo-medicine-in-tablet-package-in.jpg);
+    border-style: solid;
+    padding: 10px;
+    margin: auto;
+    width: 50%;
+}
+html{
+    background:url(https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-simple-molecular-chain-medical-medical-poster-image_202321.jpg) no-repeat;
+    background-size: cover;
+    height:100%;
+ }
+.employees-table {
+    background: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ8NDQ0NFREWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDQ0NDg0PDysZFRktNysrNysrLS0tLS03NysrNzc3KysrKystNys3Ny03Nzc3Ny0rLSsrKzcrKy0rLS03K//AABEIAKoBKQMBIgACEQEDEQH/xAAbAAADAQEBAQEAAAAAAAAAAAABAgMABAUGB//EACkQAQEAAgECBQQCAwEAAAAAAAABAhEDEiEEMUFRkWFxgbFSoRMiMvD/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AP1yGhYeNIaGhYaIGgwIaAMEIYGhgFFGCAgwswMwsAMLAACAAA0AAKYtAtCmpaqHw7z7BlG4r317nsBHKJZRfKJ5RRDKEquUTyAlJT0lETzSqvIlQLSHpAetDQsNBTw0LDRATQIMA0GBDQUYIQUBEBBoLMDMzAzMwMAgAANAAoUaAFoU1LVQJdd3RXNXRxXeM+AJlEsovlEsoojlEsotlEsgSpMlMk6IjyJVTkvdOgWl6b7VbDD1v4baj0IeEh4imhoWGiBoaFgwDQ0LDQUYIQUBEBAWgCAszAwCAMAgABRAACiFAtCjQqoWreHvaxGn8Pe9+wLZJZRap5EEMkslskslEckslskOW6lEc+VNx8e+98vT6jxcW+98v2tkonk5upfOuXYj14aEh4jRoaFhogaGhYaAaDCw0AwwsFFEYAgIgwCzMDMwAzMAMDMABRKAUKNLVQKbhv8At8kpuL/qfn9A6SZHJkRUckclskslRHIl4urvfL9unj4d975fsOakRDJLKnyqWSiXLezl2vzVzqj2YaEhoy0pDQkNEDQ0LBgHgwsGAYxRRTMAgIlEBYGAWAAFgYGBgBgrBVApaNpaI1Hh/wCp+f0Wn4P+vxQdJMjp5EVLI3Hw775eXt7qYcfrfg9ES5K4+Wunlrk5K1EqOVSyp8qllQc3Pl3c+zZ5btS2rL3oaEhoy2pDQkNAPBhYMqB9mhIMA8EogbYlZFMJRAW2G2AWBgZgYGBgtUYtrWlEGlbYUGqvhp3t+iNdHhZ2t96C1CQzIrFyop8uSwQ5cnJyVfkrl5K0ynlXPz5axv17K5Vx+Kz7yeyojalsbSKj6GGhIaVhs8PKnDQDw0JKaAeCSG2gYSjAPti7HYGYux2BttsrCm2ANsBDZbkW0Q9yLaGw2AhsNhsBA2HHcvLy9/R08fFMfrfcE+Pg9cvheCyKzMANlXLy5K8uTl5MmolS5MnNnVeTJz5VpC5V5vJnu2+7q8Xyax17/pw2rGa1qezUmhH0UppU5TSsNqyjCSmlFPKaUkoygpKJJTSgaU2yQdoGHZdt1T3A+22n1wOsFW6ol1BsFOsLSbHYDttl22wNsNtJb2ndbj8P/Lt9ICWMt7Tuvx8H8vj0Vxxk8poditBLaG0DCzAyeeQ5ZOfkzWRC8mTm5Mj55OfPJpCZ5I2q3C+vb9o+JzmOPbzvZUcPPerK30naJU+VSyrTJcqXbZUqK+glNE9mlYaPKOybNKB5kPVSDsVSZUeup7EFOqj1X3TlHYH22y7HYhtjsg7FNttl2MA222OPFb9PurjxSefcEsZb5Ta2Hh/5X8RSUdgbGSdpNDtPbbQPaGybC1Q+z4RPjm/spckBpcsi5ZFuOV+n1oE5M0Lu+U26f8WM8+9/omeTSOe8XvfxE8tTyPyZoZVUJnk83xHJ1Xfp6OnxXLr/AFnr5/Zw5VYlpMqnlTZVOgB+iBhFekHqSmlT1TSsNKSiSUdgfY7LBgGHZNmgG2Oyw0FHY7aaNKIEl9jzCtKaUBxwn3UnbyT6h6hVNjtLY7BTbdSe22Cm22WS3ylPOHL11P7Auxx7q48E9d3+lJjJ5dk0JJfQej3MForSSBlmTLNHPNZEHPNz55tnmjlkrIZZIc3J0zf/ALZs8tOHm5Oq/qKVLPLfepZU2VSyqoW0t71qpx4AfiwW6DceCvSmqrjTyo4qYsqpqD0fUsPAb/Hfo3RfY8NFEtX2vwzohkHNKaVeQ8xntPgVzSmldMxntPhSYz2nwDj2aOyGlByTDL+OXxTzhz/j82OjZ5UHPPD5fSflSeG98viKyts0LODGe9+9PMJPKSBsNoKMlttqKbC5JW0mVMFbmllmnlU8qofLNLLIuVSyqobLJLLILUOa9qonz8u+08v258q2VTyVkMqnkOVLANhg6ePBPjXwqVVcMT6DA7Kv/9k=);
+    border-style: none;
+    padding: 20px;
+    margin: auto;
+    width: 70%;
+}
+
+body > table{
+    width: 80%;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+table.list{
+    width:100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even),table.list thead>tr {
+    background-color: #dddddd;
+}
+
+input[type=text], input[type=number] {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(8, 1, 1);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 30%;
+    background-color: rgb(108, 75, 224);
+    color: rgb(8, 5, 15);
+    padding: 10px 18px;
+    /* margin: 0px 0; */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form div.form-action-buttons{
+    text-align: right;
+}
+
+a{
+    cursor: pointer;
+    text-decoration: underline;
+    color: #0000ee;
+    margin-right: 4px;
+}
+
+label.validation-error{
+    color:   red;
+    margin-left: 5px;
+}
+
+.hide{
+    display:none;
+}
